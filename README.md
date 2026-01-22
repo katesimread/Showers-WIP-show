@@ -15,7 +15,7 @@ This programme consists of six identical but independent systems that are used f
 
 Must be shown on a table where the laptop and monitor can be connected. Currently using inbuilt mac trackpad for interaction. Should be set up to replicate the photo below. Please note, the speakers in the photo are not needed. 
 
-
+Sketch must be resized to fit to monitor, and sufficiant time must be left to do this. 
 
 # Tools used
       - p5.js
